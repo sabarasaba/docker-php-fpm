@@ -1,4 +1,4 @@
-IMAGE_NAME := "azukiapp/php-fpm"
+IMAGE_NAME := "sabarasaba/php-fpm-redis"
 
 # bins
 DOCKER := $(shell which adocker || which docker)
